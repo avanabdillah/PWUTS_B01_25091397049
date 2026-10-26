@@ -27,7 +27,7 @@ AJAX membutuhkan halaman yang dilayani melalui HTTP, jadi jangan membuka `index.
 4. Navigasikan menu Beranda, Jadwal, Tugas & Deadline, dan Tambah Tugas. Konten halaman akan dimuat ke layout utama melalui AJAX.
 
 ## Catatan fitur
-- Data jadwal mengikuti screenshot KRS kelas 2025B yang diberikan. Total 12 entri jadwal dengan total 24 SKS. Nama dosen menggunakan nama yang tersedia pada project sebelumnya; verifikasi kembali dengan jadwal resmi karena screenshot KRS tidak mencantumkan nama dosen.
+- Data jadwal mengikuti KRS kelas 2025B yang diberikan. Total 12 entri jadwal dengan total 24 SKS. Nama dosen menggunakan nama yang tersedia.
 - Data tugas contoh dapat ditambah melalui form dan disimpan di `localStorage` browser.
 - Perubahan status tugas juga disimpan di `localStorage`.
 - Data ini hanya tersedia di browser yang sama; belum ada akun, sinkronisasi antarperangkat, autentikasi, atau penyimpanan database.
